@@ -1,0 +1,16 @@
+cafe_id,study_space,car_req,nondairy_charge,gluten_free,food_menu,price_point
+0,1,0,1,0,0,high
+1,1,0,1,0,1,mid
+2,1,0,1,1,1,mid
+3,1,0,1,1,1,mid
+4,0,0,1,0,1,mid
+5,1,1,1,0,0,high
+6,1,1,1,1,1,mid
+7,1,1,0,1,1,low
+8,1,0,1,1,1,mid
+9,1,1,1,1,1,low
+10,1,1,0,1,1,high
+11,1,1,1,0,0,mid
+12,1,0,0,0,0,high
+13,1,1,0,0,0,high
+14,0,0,1,1,1,low
