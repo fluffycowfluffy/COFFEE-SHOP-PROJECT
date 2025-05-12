@@ -7,9 +7,7 @@
 ---
 The Williamsburg Coffee Recommender System takes user preferences, such as if they are looking to study, 
 if they are able to drive to café locations, allergen info, ideal price point, atmosphere, and coffee drink flavors, 
-and returns a local coffee shop recommendation.
-
-The data for this project was collected from 15 different coffee shops in the Williamsburg area.
+and returns a local coffee shop recommendation. The data for this project was collected from 15 different coffee shops in the Williamsburg area.
 ---
 Quick Start
 ---
