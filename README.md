@@ -36,4 +36,5 @@ This repository includes the following folders and files:
   - `descriptor_df` is a dataframe containing the descriptors, assigned using each café's unique ID, for atmosphere and signature drink.
   - `reference_df` is a dataframe containing the corresponding establishment name, signature drink, and address for each unique café ID.
 - `pyproject.toml` and `uv.lock` are necessary for syncing virtual environments with the correct requirements.
+- `writeup` contains more in-depth information on this project.
 ---
