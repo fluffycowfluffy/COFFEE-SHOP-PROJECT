@@ -1,7 +1,7 @@
 [project]
 name = "The_Williamsburg_Cafe_Recommendation_System"
 version = "0.1.0"
-description = "Add your description here"
+description = "The program takes user preferences and outputs the top match recommendation for a Williamsburg coffee shop."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
