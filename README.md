@@ -30,7 +30,7 @@ This repository includes the following folders and files:
     - `run_app` is the function that runs the entire Dash app.
     - `show_questions` runs through each question based on the current index. It pulls from pre-set questions created previously in the Python script.
     - `next_question` takes the created variables for user preferences and fills them with the asnwer provided at each question. It disallows continuation of the survey without providing answers, and displays the top match found by runnning `cafe_recommender` with a corresponding custom artwork.
-  - `assets` contains the artwork for the program, including a header image, next button icon, and custom images for each café's signature drink.
+  - `assets` contains the artwork for the program, including a header image, next button icon, and custom images for each café's signature drink. It also contains a `style.css` file that provides some basic styling applied to the entire Dash interface.
 - `data` contains CSV files for the collected café data.
   - `coffeeshop_df` is a dataframe containing each café's ID, binary T/F variables, and the ordinal price point variable.
   - `descriptor_df` is a dataframe containing the descriptors, assigned using each café's unique ID, for atmosphere and signature drink.
