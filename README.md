@@ -19,7 +19,7 @@ Then run the main function:
 ```
 uv run main.py
 ```
-About the Code
+About the Project
 ---
 This repository includes the following folders and files:
 - `main.py` runs the following Python scripts found in `src`.
