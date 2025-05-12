@@ -1,5 +1,5 @@
 # Got Coffee?
-# The Williamsburg Coffee Recommender System
+## The Williamsburg Coffee Recommender System
 ### Greta Lin Risgin
 ### Automation & Workflows
 ### 12 May 2025
