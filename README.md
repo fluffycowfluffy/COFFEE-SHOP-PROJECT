@@ -11,7 +11,7 @@ and returns a local coffee shop recommendation. The data for this project was co
 ---
 Quick Start
 ---
-After cloning this repository, sync the UV environment:
+After cloning this repository, sync the virtual environment:
 ```
 uv sync
 ```
