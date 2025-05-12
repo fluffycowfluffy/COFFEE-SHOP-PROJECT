@@ -7,4 +7,4 @@ app = run_app()
 
 # Run the app
 if __name__ == "__main__":
-   app = app.run(debug = True)
+   app = app.run(debug = False)
