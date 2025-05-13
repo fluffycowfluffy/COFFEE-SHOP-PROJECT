@@ -18,7 +18,7 @@ After cloning this repository, sync the virtual environment:
 ```
 uv sync
 ```
-Then run the main function. This will take a minute or two to boot up:
+Then run the main function:
 ```
 uv run main.py
 ```
