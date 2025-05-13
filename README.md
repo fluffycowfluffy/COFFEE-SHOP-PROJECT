@@ -7,7 +7,7 @@
 ---
 The Williamsburg Coffee Recommender System takes user preferences on cafés and returns a local coffee shop recommendation. The data for this project was collected from 15 different coffee shops in the Williamsburg area.
 ---
-Note: This project is also being publically hosted on my [website](http://66.29.133.117:8050/). However, the publically hosted version is running on select outdated Python libraries and may be flagged as an unsecure website on certain devices. Cloning this GitHub will produce a faster and more accurate version of the recommendation system.
+Note: This project is also being publically hosted on my [website](http://risgin.com/). However, the publically hosted version is running on select outdated Python libraries and may be flagged as an unsecure website on certain devices. Cloning this GitHub will produce a faster and more accurate version of the recommendation system.
 
 ---
 Quick Start
