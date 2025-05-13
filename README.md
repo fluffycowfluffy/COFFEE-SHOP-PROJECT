@@ -8,6 +8,8 @@
 The Williamsburg Coffee Recommender System takes user preferences, such as if they are looking to study, 
 if they are able to drive to café locations, allergen info, ideal price point, atmosphere, and coffee drink flavors, 
 and returns a local coffee shop recommendation. The data for this project was collected from 15 different coffee shops in the Williamsburg area.
+
+Note: This project is also being hosted on my [website]{http://66.29.133.117:8050/}. However, the publically hosted version is runninng on select outdated Python libraries. Cloning this GitHub will produce a faster and more accurate version of the recommendation system.
 ---
 Quick Start
 ---
@@ -15,7 +17,7 @@ After cloning this repository, sync the virtual environment:
 ```
 uv sync
 ```
-Then run the main function:
+Then run the main function. This will take a minute or two to boot up:
 ```
 uv run main.py
 ```
